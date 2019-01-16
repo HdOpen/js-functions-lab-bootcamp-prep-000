@@ -2,4 +2,4 @@
 function happyHolidays() {
   return "Happy holidays!"
 }
-function happyHolidaysTo (Mark)
+function happyHolidaysTo ()
