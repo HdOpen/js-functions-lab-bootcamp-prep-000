@@ -2,5 +2,5 @@
 function happyHolidays() {
   return "Happy holidays!"
 }
-var name
+var name = Mark
 function happyHolidaysTo ()
